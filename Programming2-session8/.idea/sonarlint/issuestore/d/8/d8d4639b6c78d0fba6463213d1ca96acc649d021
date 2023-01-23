@@ -1,0 +1,9 @@
+
+n
+java:S1104"SMake channel a static final constant or non-public and provide accessors if needed.(‡½¨Õøÿÿÿÿ
+m
+java:S1104"WMake volumeLevel a static final constant or non-public and provide accessors if needed.(—Ş§¥
+c
+java:S1104"NMake on a static final constant or non-public and provide accessors if needed.(¹—šO
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÅÔÊ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(•ˆïĞøÿÿÿÿ

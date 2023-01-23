@@ -1,0 +1,17 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó¬äüÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "countryName".(¿òşåúÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "name".(¥îê»
+M
+java:S1854"7Remove this useless assignment to local variable "age".(€Ú÷
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÖŒÿŸ
+V	java:S125"<This block of commented-out lines of code should be removed.(ªç°˜üÿÿÿÿ
+>
+java:S1481"(Remove this unused "age" local variable.(€Ú÷
+?
+java:S1481")Remove this unused "name" local variable.(¥îê»
+K
+java:S1481"0Remove this unused "countryName" local variable.(¿òşåúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëôßÊ

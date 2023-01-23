@@ -1,0 +1,9 @@
+
+l
+java:S1192"QDefine a constant instead of duplicating this literal "****************" 4 times.(Ç­‚øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù·’†
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•÷É°
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ãæ®
+R
+java:S1854"7Remove this useless assignment to local variable "num".(ŞŞÒıÿÿÿÿ

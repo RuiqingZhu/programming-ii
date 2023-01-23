@@ -1,0 +1,15 @@
+
+_
+java:S1192"IDefine a constant instead of duplicating this literal "Montreal" 5 times.(Ä¹Ò·
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·‚Çûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œ•é‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„íí
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ú¿²ïıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«”øŒ
+K
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+N
+java:S1128"8Remove this unused import 'java.util.GregorianCalendar'.(€û½

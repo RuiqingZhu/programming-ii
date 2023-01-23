@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·‚ŽÇûÿÿÿÿ
+R
+java:S3252"7Use static access with "java.util.Calendar" for "YEAR".(ËÀÛ†ÿÿÿÿÿ
+S
+java:S3252"8Use static access with "java.util.Calendar" for "MONTH".(Úô÷Áùÿÿÿÿ
+Z
+java:S3252"?Use static access with "java.util.Calendar" for "DAY_OF_MONTH".(—¸Ò›ýÿÿÿÿ

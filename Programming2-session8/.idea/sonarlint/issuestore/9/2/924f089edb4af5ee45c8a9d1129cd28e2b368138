@@ -1,0 +1,17 @@
+
+0
+java:S1220""Move this file to a named package.
+Y
+java:S1854">Remove this useless assignment to local variable "rectangle2".(ººÖşÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "area".(“¥ãøÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "area".(ÆàêÒ
+S
+java:S1854	"8Remove this useless assignment to local variable "area".(¸ÕÎÈøÿÿÿÿ
+D
+java:S1481	")Remove this unused "area" local variable.(¸ÕÎÈøÿÿÿÿ
+J
+java:S1481"/Remove this unused "rectangle2" local variable.(ººÖşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ó¿‚µ
+V	java:S125"<This block of commented-out lines of code should be removed.(ñÓÖ’ıÿÿÿÿ

@@ -1,0 +1,5 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§èœÊøÿÿÿÿ
+S
+java:S1117"=Rename "accountNum" which hides the field declared at line 6.(ÇŠßý
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¹—»

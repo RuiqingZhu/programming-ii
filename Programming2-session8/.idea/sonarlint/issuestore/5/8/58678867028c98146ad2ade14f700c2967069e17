@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó¬äüÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„”½ÿûÿÿÿÿ
+q
+java:S1450"VRemove the "address" field and declare it as a local variable in the relevant methods.(÷§ùÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(„”½ÿûÿÿÿÿ
+H
+java:S1135""2Complete the task associated to this TODO comment.(…ïœ†
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(£ùÅ¨
+F
+java:S1068"+Remove this unused "address" private field.(÷§ùÿÿÿÿ

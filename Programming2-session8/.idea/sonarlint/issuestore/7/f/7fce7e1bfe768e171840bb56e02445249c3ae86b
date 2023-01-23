@@ -1,0 +1,16 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌÃ®t
+[
+java:S1854"@Remove this useless assignment to local variable "interestRate".(ğÆ³õúÿÿÿÿ
+V
+java:S1854
+"@Remove this useless assignment to local variable "interestRate".(ü—ÿ¯
+V
+java:S1854"@Remove this useless assignment to local variable "interestRate".(óÙÚ
+L
+java:S1481"1Remove this unused "interestRate" local variable.(¹ûÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¹ÜÔİıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Âï£¡
+V	java:S125"<This block of commented-out lines of code should be removed.(©‘ş¼ÿÿÿÿÿ
+P	java:S125""<This block of commented-out lines of code should be removed.(Ìõ³$
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(àÀØüÿÿÿÿ

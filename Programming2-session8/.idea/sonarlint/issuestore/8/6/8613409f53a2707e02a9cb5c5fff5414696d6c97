@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ°àúşÿÿÿÿ
+Z
+java:S2259"?A "NullPointerException" could be thrown; "x" is nullable here.(è×”àşÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "intArray2".(š¿Àâúÿÿÿÿ
+I
+java:S1481".Remove this unused "intArray2" local variable.(š¿Àâúÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ç¢z
+N	java:S106"9Replace this use of System.out or System.err by a logger.(º°Â·
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜŒ½úøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(è×”àşÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Äö½şÿÿÿÿ
